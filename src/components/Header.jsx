@@ -11,7 +11,7 @@ function limitText(text) {
   return text
 }
 
-const Topscroll = () => {
+const topscroll = () => {
   window.scrollTo({
     top: 0,
   });
@@ -25,19 +25,21 @@ export default function Header() {
   return (
     <header>
       <div>
-        <button>
-          <div>
-            {game.description.map(content => {
-              if (content.type === "subtitle") {
-                return <ScrollLink offset={-85} smooth={true} to={content.id}>{limitText(content.text)}</ScrollLink>
-              }
+        {
+          game && <button>
+            <div>
+              {game.description.map(content => {
+                if (content.type === "subtitle") {
+                  return <ScrollLink offset={-85} smooth={true} to={content.id}>{limitText(content.text)}</ScrollLink>
+                }
 
-            })}
-          </div>
-          <MenuIcon />
+              })}
+            </div>
+            <MenuIcon />
           menu
         </button>
-        <Link to="/" onClick={Topscroll}><h1>JOGOS</h1> </Link>
+        }
+        <Link to="/" onClick={topscroll}><h1>JOGOS</h1> </Link>
       </div>
     </header>
   )

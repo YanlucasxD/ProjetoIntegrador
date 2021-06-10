@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 
 export default function Topscroll() {
-  
+
   const [isVisible, setIsVisible] = useState(false);
 
   // Show button when page is scorlled upto given distance

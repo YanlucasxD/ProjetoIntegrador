@@ -1,6 +1,8 @@
 [
   {
     "id": 0,
+     "highlight": true,
+     "highlightImage": "https://s2.glbimg.com/sfRgyEXhSQxiJ-RinuDb6eJEax0=/0x0:695x390/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2020/i/F/BUgaY0TMS4kTSXBjiHDA/pokemon-24-anos-desenho-animado-temporada.jpg",
     "title": "Pokémon: jogos e consoles raros da franquia são vendidos por R$ 400 mil",
     "subtitle": "Itens extremamente raros e valiosos de Pokémon chamam a atenção de fãs, que pagam valores altos",
     "description": [
@@ -101,6 +103,8 @@
   },
   {
     "id": 1,
+    "highlight": true,
+    "highlightImage": "https://s2.glbimg.com/AS2sgbNy38ZNSjACEmJuV8HYKFs=/0x0:695x390/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/R/A/4XMig9S7i6B8EIZOdnhA/lancamentos-semana-mass-effect-legendary-edition.jpg",
     "title": "Mass Effect e Subnautica são destaques nos lançamentos da semana",
     "subtitle": "Remake da série Famicom Detective Club e Before We Leave também chegam nos próximos dias",
     "description": [
@@ -181,6 +185,8 @@
   },
   {
     "id": 2,
+    "highlight": true,
+    "highlightImage": "https://s2.glbimg.com/SDuYb_D60YeCNYvNqHSNtQz99ho=/0x0:1170x786/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2020/w/5/zKXQ6LQc65h9ANSkFNaA/resident-evil-3-d.jpg",
     "title": "Resident Evil: dez personagens assustadores dos jogos de terror",
     "subtitle": "Relembre grandes vilões da história dos jogos da série e fique por dentro dos personagens que prometem em Village",
     "description": [
@@ -363,5 +369,141 @@
         "text": "Heisenberg também teria poderes sobrenaturais, capaz de liderar um exército de lobisomens. Aparentemente, há alguma rivalidade entre ele e Lady Dimitrescu, embora a origem e extensão dessa disputa – e seus efeitos na narrativa – ainda sejam um mistério."
       }
     ]
+  },
+  {
+    "id": 3,
+    "highlight": false,
+    "highlightImage": "https://s2.glbimg.com/xeAkjbEhVInYRCStRs_GKkB0Hi4=/0x0:695x390/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2020/Z/a/w4JFFkTTmY0kXsdT6IGQ/counter-strike-global-offensive-steam-recorde.jpg",
+    "title": "CS:GO: como usar os comandos de treino 'exec.cfg' do FalleN",
+    "subtitle": "Configurações podem ser usadas em servidores offline para treinar e aprimorar lançamentos de granadas, por exemplo",
+    "description": [
+      {
+        "type": "image",
+        "link": "https://s2.glbimg.com/xeAkjbEhVInYRCStRs_GKkB0Hi4=/0x0:695x390/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2020/Z/a/w4JFFkTTmY0kXsdT6IGQ/counter-strike-global-offensive-steam-recorde.jpg"
+      },
+      {
+        "type": "paragraph",
+        "text": "Jogadores de Counter Strike: Global Offensive (CS:GO) podem usar as mesmas configurações de treino que o pro player Gabriel “FalleN” Toledo. Para isso, basta baixar o arquivo 'treino.cfg' disponibilizado pelo próprio FalleN, publicado em 2019 no seu canal oficial do YouTube. Depois, basta acessar o “exec treino” no console de comandos."
+      },
+      {
+        "type": "paragraph",
+        "text": "Usando os comandos para configuração automática você poderá, em servidores offline, executar diversas ações que visam aprimorar seu jogo como, por exemplo, treinar o uso de smoke e flash através de pixels estratégicos. Veja a seguir como instalar e executar a configuração de treino de FalleN."
+      },
+      {
+        "type": "paragraph",
+        "text": "Passo 1. Faça o download do arquivo “Treino.cfg” neste link, onde estão os comandos para configuração automática do servidor fornecidos pelo pro player;"
+      },
+      {
+        "type": "image",
+        "link": "https://s2.glbimg.com/d8GStkLqN9A_lFdNM7A6emkikZo=/0x0:1920x1041/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/6/S/0ElhYATSOCLwjTeWY3lg/passo-1.jpg"
+      },
+      {
+        "type": "paragraph",
+        "text": "Passo 2. Após o término do download, salve o arquivo dentro da pasta “cfg” no seguinte diretório onde o seu CS:GO está instalado"
+      },
+      {
+        "type": "image",
+        "link": "https://s2.glbimg.com/dW0D-Di5q9dt6xGXjZFo7kVH-Kw=/0x0:1920x1023/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/d/M/S0PqY2SqaraP27QnleZA/passo-2.jpg"
+      },
+      {
+        "type": "paragraph",
+        "text": "Jogadores de Counter Strike: Global Offensive (CS:GO) podem usar as mesmas configurações de treino que o pro player Gabriel “FalleN” Toledo. Para isso, basta baixar o arquivo 'treino.cfg' disponibilizado pelo próprio FalleN, publicado em 2019 no seu canal oficial do YouTube. Depois, basta acessar o “exec treino” no console de comandos."
+      },
+      {
+        "type": "paragraph",
+        "text": "Passo 3. Dentro CS:GO, vá em 'Jogar CS:GO'"
+      }
+    ]
+  },
+  
+  {
+    "id": 4,
+    "highlight": false,
+    "highlightImage": "https://s2.glbimg.com/kwrSytb41xE5FLyKB6siM0b8FHg=/0x0:960x540/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2020/Y/A/DUporVSMC8EBXgsrlwXQ/3fe6782a8c5732747561ce4ecb99f44d-960x540-blizz-mpfeaturecard-zs-mp-event-03.jpg",
+    "title": "CS:GO: como usar os comandos de treino 'exec.cfg' do FalleN",
+    "subtitle": "Configurações podem ser usadas em servidores offline para treinar e aprimorar lançamentos de granadas, por exemplo",
+    "description": [
+      {
+        "type": "image",
+        "link": "https://s2.glbimg.com/kwrSytb41xE5FLyKB6siM0b8FHg=/0x0:960x540/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2020/Y/A/DUporVSMC8EBXgsrlwXQ/3fe6782a8c5732747561ce4ecb99f44d-960x540-blizz-mpfeaturecard-zs-mp-event-03.jpg"
+      },
+      {
+        "type": "paragraph",
+        "text": " 'Aamerica', jogador de Call of Duty: Warzone e Black Ops Cold War, foi banido da Twitch TV na última quinta-feira (27). O streamer, que levou um ban permanente, é suspeito de ter usado hacks e cheats nos jogos da franquia CoD. O curioso é que em janeiro deste ano o estadunidense participou do Twitch Rivals Doritos Bowl, torneio organizado pela própria plataforma. Seu trio terminou em segundo lugar, levando US$ 10 mil (cerca de R$ 52 mil na época) de premiação, e ele ainda foi eleito o melhor jogador do campeonato e faturou US$ 1 mil (cerca de R$ 5,2 mil) por isso."
+      },
+      {
+        "type": "paragraph",
+        "text": "Na época, a competição causou polêmica pela suspeita de que alguns jogadores estavam usando cheats, e um participantes chegou a ser excluído da disputa. Aamerica não ficou entre os principais suspeitos de ter trapaceando. Nesta quinta-feira (27), porém, um usuário do Twitter publicou uma série de vídeos que mostram uma possível utilização de Wallhack por parte do streamer. Nos clipes em questão, retirados do canal de Aamerica, ele disputa um outro torneio multiplayer 3v3 de Call of Duty: Black Ops Cold War. O jogador nega as acusações."
+      },
+      {
+        "type": "paragraph",
+        "text": "A Twitch TV não costuma revelar os motivos dos bans que aplica publicamente. Ao acessar o link do canal, é exibida a mensagem de que o conteúdo não está disponível, o que indica o banimento. Já a Activision, desenvolvedora da franquia CoD, não se pronunciou sobre a situação até o fechamento desta matéria. Mas vale lembrar que a desenvolvedora tem feito ações contra os usos de trapaças desde o lançamento do game, que aconteceu em março de 2020, e já baniu mais de 500 mil contas no período."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "highlight": false,
+    "highlightImage":"https://s2.glbimg.com/KlUDfI4q_V02f3WmPR9eVLHdHlE=/0x0:1794x954/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/6/p/bkf4SYS3GL57VF6zZimw/sonic-colors-ultimate.png",
+
+    "title": "CS:GO: como usar os comandos de treino 'exec.cfg' do FalleN",
+    "subtitle": "Configurações podem ser usadas em servidores offline para treinar e aprimorar lançamentos de granadas, por exemplo",
+    "description": [
+      {
+        "type": "image",
+        "link": "https://s2.glbimg.com/KlUDfI4q_V02f3WmPR9eVLHdHlE=/0x0:1794x954/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/6/p/bkf4SYS3GL57VF6zZimw/sonic-colors-ultimate.png"
+      },
+      {
+        "type": "paragraph",
+        "text": "Sonic Colors Ultimate é o novo título do mascote da Sega. A novidade foi anunciadas pela desenvolvedora durante a transmissão online Sonic Central, nesta quinta feira (27). Além dele, outro jogo ainda sem nome também foi relevado. Em comemoração ao aniversário de 30 anos de Sonic, a Sega divulgou ainda outros projetos da franquia, como colaborações com outros títulos, mais detalhes da animação na Netflix e até o anúncio de um novo desenho do ouriço azul."
+      },
+      {
+        "type": "paragraph",
+        "text": "Sonic Colors Ultimate será uma versão remasterizada do clássico jogo de Nintendo Wii. O game promete gráficos melhorados em comparação com a versão original, além de melhorias em sua jogabilidade. Com lançamento marcado para o dia sete de setembro, ele estará disponível para PlayStation 4 (PS4), Nintendo Switch, Xbox One e PCs."
+      },
+      {
+        "type": "paragraph",
+        "text": "Já o novo jogo anunciado no evento ainda não tem nome, mas promete ser lançado em 2022. No vídeo de anúncio, é possível ver imagens de um Sonic em 3D correndo por uma floresta. Não há maiores detalhes anunciados até o momento, mas já se sabe que o game chegará ao PlayStation 4 (PS4), PlayStation 5 (PS5), Xbox One, Xbox Series S/X, Nintendo Switch e PC."
+      },
+      {
+        "type": "paragraph",
+        "text": "A Sega anunciou ainda que Sonic ganhará uma coletânea com quatro de seus jogos clássicos. Sonic The Hedgehog 1, Sonic The Hedgehog 2, Sonic The Hedgehog 3 & Knuckles e Sonic CD estarão incluídos em um único pacote intitulado Sonic Origins. Plataformas e uma data de lançamento ainda não foram anunciadas."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "highlight": false,
+    "highlightImage":"https://s2.glbimg.com/ZnYPgxqGw6ehV_-ieDfu1JtARFg=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/R/e/XhnhEPQTAEuKOAeNbBzw/fortnite-ch02-s06-pt-br-deathstroke-social-1920x1080-1920x1080-80b3268124b5.jpg",
+
+    "title": "Deathstroke no Fortnite: como participar do campeonato e ganhar o traje",
+    "subtitle": "Vilão dos Jovens Titãs, Deathstroke também terá seu próprio evento no Battle Royale, o Campeonato Exterminador Zero",
+    "description": [
+      {
+        "type": "image",
+        "link": "https://s2.glbimg.com/ZnYPgxqGw6ehV_-ieDfu1JtARFg=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/R/e/XhnhEPQTAEuKOAeNbBzw/fortnite-ch02-s06-pt-br-deathstroke-social-1920x1080-1920x1080-80b3268124b5.jpg"
+      },
+      {
+        "type": "paragraph",
+        "text": "Para participar do Campeonato Exterminador Zero, é necessário ter a Autenticação em Dois Fatores (ADF) habilitada em sua conta da Epic Games e ter uma conta nível 30 ou superior. Além disso, os jogadores precisam ter, no mínimo, 13 anos de idade e, caso sejam menores de 18 anos, será necessária a permissão de um guardião legal ou responsável. A inscrição poderá ser feita dentro do próprio Fortnite na aba 'Competir', onde também estão disponíveis os horários exatos do começo do torneio."
+      },
+      {
+        "type": "paragraph",
+        "text": "A seguir, você confere mais detalhes a respeito do Campeonato Exterminador Zero e como participar. Lembrando que o Fortnite está disponível de graça para download no PC (via Epic Games Store), PlayStation 5 (PS5), PlayStation 4 (PS4), Xbox Series X/S, Xbox One, Nintendo Switch, e em versão mobile para celulares Android."
+      },
+      {
+        "type": "paragraph",
+        "text": "Para participar do Campeonato Exterminador Zero, é necessário ter a Autenticação em Dois Fatores (ADF) habilitada em sua conta da Epic Games e ter uma conta nível 30 ou superior. Além disso, os jogadores precisam ter, no mínimo, 13 anos de idade e, caso sejam menores de 18 anos, será necessária a permissão de um guardião legal ou responsável. A inscrição poderá ser feita dentro do próprio Fortnite na aba 'Competir', onde também estão disponíveis os horários exatos do começo do torneio."
+      },
+      {
+        "type": "paragraph",
+        "text": "Na tabela abaixo, é possível ver como será o sistema de pontuação para o torneio. Lembrando que cada eliminação renderá um ponto para o participante."
+      },
+      {
+        "type": "local-image",
+        "link": "tabela.png"
+      }
+    ]
   }
+  
 ]

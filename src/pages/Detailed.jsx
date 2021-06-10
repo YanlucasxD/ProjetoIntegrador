@@ -23,13 +23,15 @@ export default function Detailed() {
               return <p>{content.text}</p>
             } else if (content.type === "image") {
               return <img src={content.link} />
+            }else if (content.type === "local-image"){
+              return <img src={require(`../assets/${content.link}`).default} />
             }
             else return <h2 id={content.id}>{content.text}</h2>
           }
           )}
         </div>
       </section>
-      
+
       <Topscroll />
     </>
   )
